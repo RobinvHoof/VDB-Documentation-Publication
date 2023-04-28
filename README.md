@@ -273,4 +273,4 @@ The full video at 1x playback speed can be found [here](./Media/Demos/%5BS5%5D%2
 | <div style="min-width=150px;">Version</div> | <div style="min-width=150px">Date</div> | <div style="min-width=150px;">To</div> | Goal |
 | :---: | :---: | :--- | :--- |
 | 1.0 | 20-03-2023 | Marcus Krielen | Format feedback |
-| /| | 28-04-2023 | Marcus Krielen | Midterm portfolio feedback |
+| \| | 28-04-2023 | Marcus Krielen | Midterm portfolio feedback |
